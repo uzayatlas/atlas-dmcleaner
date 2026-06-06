@@ -132,25 +132,13 @@ If automatic detection fails, you can manually enter your token in the login win
 - Try running with administrator privileges
 - Check Windows display settings
 
-## 🛠️ Building Executable
-
-To create a standalone executable:
-
-```bash
-pyinstaller --onefile --windowed --icon=nike.ico main.pyw
-```
-
-Or use the provided build scripts:
-- `build_simple.bat` - Simple build
-- `build_advanced.py` - Advanced build with options
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Credits
 
-**Developed by:** Efe Kırbaş
+**Developed by:** Uzay Atlas
 
 **Copyright © 2025**
 
